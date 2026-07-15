@@ -124,3 +124,7 @@ rect:has(+ .vjs-palette-drag-hover-cannot-drop) {
 .vjs-surface.vjs-palette-drag-hover-cannot-drop, .vjs-surface.vjs-drag-hover-cannot-drop {
     background-color: var(--vjs-bpmn-invalid-drop-color);
 }
+
+.vjs-bpmn-controls {
+    position:absolute;
+}
